@@ -1,6 +1,6 @@
 ### Hi👋! My name is João
 
-I'm leraning programming, currently using Java, I've made a game, you can test it out on Game Jolt!<br>
+I'm learning programming, currently using Java, I've made a game, you can test it out on Game Jolt!<br>
 <a href="https://gamejolt.com/games/ttraveler/796130">(the game) The Traveler</a>
 
 #### My stats:
@@ -10,7 +10,7 @@ I'm leraning programming, currently using Java, I've made a game, you can test i
 There's a tool that I made using Visual Basic(idk why) that you can check out at my repositories:<br>
 <a href="https://www.github.com/retrozinndev/UpDateNTime">UpDateN'Time! A tool that syncs your computer time with the internet</a><br>
 
-##### Programming Languages that I currently use:
+##### Programming Language(s) that I currently use:
 <a href="https://openjdk.org/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 
