@@ -16,12 +16,14 @@ There's a tool that I made using Visual Basic(idk why) that you can check out at
 
 ##### Social Medias:
 <a href="https://www.reddit.com/user/Much_Clue7037">
- <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+ <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://stackoverflow.com/users/22116293/retrozinndev">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow"></a>
+<a href="https://www.twitch.tv/retrozinndev">
+ <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
 ##### System that I use:
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Insider Preview Canary 23H2">
 
 <!--
 **retrozinndev/retrozinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
