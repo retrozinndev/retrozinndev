@@ -1,6 +1,6 @@
 ### Hi👋! My name is João
 
-I'm learning programming, currently using Java, I've made a game, you can test it out on Game Jolt!<br>
+I'm learning programming, currently using Java, I've made a game and you can test it out on Game Jolt!<br>
 <a href="https://gamejolt.com/games/ttraveler/796130">(the game) The Traveler</a>
 
 #### My stats:
