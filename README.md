@@ -22,7 +22,7 @@ There's a tool that I made using Visual Basic(idk why) that you can check out at
 <a href="https://www.twitch.tv/retrozinndev">
  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
-##### System that I use:
+##### My current OS:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Insider Preview Canary 23H2">
 
 <!--
