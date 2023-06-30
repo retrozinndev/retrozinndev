@@ -2,11 +2,11 @@
 
 I'm learning programming, currently using Java, I've made a game and you can test it out on Game Jolt!<br>
 <a href="https://gamejolt.com/games/ttraveler/796130">(the game) The Traveler</a>
-
+<!--
 #### My stats:
 <a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
 <img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
-<br>
+<br> -->
 There's a tool that I made using Visual Basic(idk why) that you can check out at my repositories:<br>
 <a href="https://www.github.com/retrozinndev/UpDateNTime">UpDateN'Time! A tool that syncs your computer time with the internet</a><br>
 
