@@ -23,7 +23,7 @@ There's a tool that I made using Visual Basic(idk why) that you can check out at
  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
 ##### My current OS:
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Insider Preview Canary 23H2">
+<a href="microsoft.com/windows> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Insider Preview Canary 23H2"></a>
 
 <!--
 **retrozinndev/retrozinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
