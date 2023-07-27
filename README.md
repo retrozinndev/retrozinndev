@@ -19,7 +19,8 @@ There's a tool that I made using Visual Basic .NET(idk why) that you can check o
 <a href="https://openjdk.org/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a><br>
+(I'm new on C#)
 
 ##### Social Medias:
 <a href="https://www.reddit.com/user/Much_Clue7037">
