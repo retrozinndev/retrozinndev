@@ -1,12 +1,12 @@
 ### Hi👋! My name is João
 
-An Computer enthusiast that's learning programming languages.
+Computer enthusiast that's learning programming languages.
 
 #### Things that you should test out:
 I've made a game and you can play on Game Jolt! The source code is now available on GitHub too! <br>
 <a href="https://gamejolt.com/games/ttraveler/796130">The Traveler</a>
 
-There's a tool that I made using Visual Basic .NET(idk why) that you can check out at my repositories:<br>
+There's a tool that I made using Visual Basic .NET that you can check out at my repositories tab:<br>
 <a href="https://www.github.com/retrozinndev/UpDateNTime">UpDateN'Time! A tool that syncs your computer time with the internet</a><br>
 
 <!--
@@ -15,13 +15,16 @@ There's a tool that I made using Visual Basic .NET(idk why) that you can check o
 <img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
 <br> -->
 
-#### Programming Languages that I currently use:
+#### Programming Languages that I use:
 <a href="https://openjdk.org/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a><br>
 
- (**I'm new on C#**)
+ (**New with C#**)
+
+#### What technology am I learning now?
+<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
 
 #### Social Medias:
 <a href="https://www.reddit.com/user/Much_Clue7037">
@@ -37,9 +40,7 @@ There's a tool that I made using Visual Basic .NET(idk why) that you can check o
 -->
 <!--
 **retrozinndev/retrozinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
