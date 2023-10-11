@@ -4,7 +4,7 @@ Computer enthusiast that's learning programming languages.
 
 #### Things that you should test out:
 I've made a game and you can play on Game Jolt! The source code is now available on GitHub too! <br>
-<a href="https://gamejolt.com/games/ttraveler/796130">The Traveler</a>
+<a href="https://gamejolt.com/games/ttraveler/796130">The Traveler - A free and open-source 2D Shooter game</a>
 
 There's a tool that I made using Visual Basic .NET that you can check out at my repositories tab:<br>
 <a href="https://www.github.com/retrozinndev/UpDateNTime">UpDateN'Time! A tool that syncs your computer time with the internet</a><br>
