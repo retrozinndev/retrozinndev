@@ -15,7 +15,7 @@ There's a tool I made using VB.NET that you can check out at my repositories:<br
 <img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
 <br> -->
 
-#### Programming Languages that I use:
+#### Technologies that I use:
 <a href="https://openjdk.org/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">
