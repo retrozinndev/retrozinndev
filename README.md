@@ -6,9 +6,6 @@ Computer enthusiast that's learning programming languages.
 I've made a game and you can play on Game Jolt, and the source code is available! <br>
 <a href="https://gamejolt.com/games/ttraveler/796130">The Traveler - A free and open-source 2D Shooter game</a>
 
-There's a tool I made using VB.NET that you can check out at my repositories:<br>
-<a href="https://www.github.com/retrozinndev/UpDateNTime">UpDateN'Time! A tool that syncs your computer time with the internet</a><br>
-
 <!--
 #### My stats:
 <a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
