@@ -2,8 +2,9 @@
 
 A Computer enthusiast that's learning programming languages!
 
-#### Things that you should test out:
-I've made a game and you can play on Game Jolt, and the source code is available! <br>
+#### Things that you should look:
+ - [Note Studios](https://github.com/notestudios)
+ - I've made a game and you can play on Game Jolt, and the source code is available! <br>
 <a href="https://gamejolt.com/games/ttraveler/796130">The Traveler - A free and open-source 2D Shooter game</a>
 
 <!--
