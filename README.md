@@ -1,21 +1,19 @@
 ### Hi👋! My name is João
-
 A Computer enthusiast that's learning programming languages!
+
+<!-- <a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
+<img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
+<br> -->
 
 #### Things that you should look:
  - [Note Studios](https://github.com/notestudios)
- - I've made a game and you can play on Game Jolt, and the source code is available! <br>
+ - I've made a game and you can play on Game Jolt, source code is available! <br>
   [The Traveler - A free and open-source 2D Shooter game](https://github.com/retrozinndev/TheTraveler)
- - A Space Shooting game I made for fun! <br>
+ - A Space Shooting game I've made for fun! <br>
   [Space Shooter - A game about Space Shooting!](https://github.com/retrozinndev/SpaceShooter)
- - Tool made to Sync you Date and Time with the Internet on Windows <br>
+ - Tool made to Sync your Date and Time with the Internet on Windows <br>
   [UpDateNTime - Tool for PCs that can't save date and time](https://github.com/retrozinndev/UpDateNTime)
 
-<!--
-#### My stats:
-<a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
-<img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
-<br> -->
 
 #### Technologies that I use:
 <a href="https://openjdk.org/">
