@@ -5,7 +5,11 @@ A Computer enthusiast that's learning programming languages!
 #### Things that you should look:
  - [Note Studios](https://github.com/notestudios)
  - I've made a game and you can play on Game Jolt, and the source code is available! <br>
-<a href="https://gamejolt.com/games/ttraveler/796130">The Traveler - A free and open-source 2D Shooter game</a>
+  [The Traveler - A free and open-source 2D Shooter game](https://github.com/retrozinndev/TheTraveler)
+ - A Space Shooting game I made for fun! <br>
+  [Space Shooter - A game about Space Shooting!](https://github.com/retrozinndev/SpaceShooter)
+ - Tool made to Sync you Date and Time with the Internet on Windows <br>
+  [UpDateNTime - Tool for PCs that can't save date and time](https://github.com/retrozinndev/UpDateNTime)
 
 <!--
 #### My stats:
@@ -29,7 +33,7 @@ A Computer enthusiast that's learning programming languages!
  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
 #### Linux Distro I use:
-<a href="https://www.fedoraproject.org/workstation"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation 38"></a>
+<a href="https://www.fedoraproject.org/workstation/39"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation 39"></a>
 
 <!--
 **retrozinndev/retrozinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
