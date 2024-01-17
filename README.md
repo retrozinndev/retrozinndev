@@ -31,7 +31,7 @@ A Computer enthusiast that's learning programming languages!
  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
 
 #### Linux Distro I use:
-<a href="https://www.fedoraproject.org/workstation/39"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation 39"></a>
+<a href="https://archlinux.org/"> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux GNOME"></a>
 
 <!--
 **retrozinndev/retrozinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
