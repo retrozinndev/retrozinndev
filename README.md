@@ -15,7 +15,7 @@ A Computer enthusiast that's learning programming languages!
   [UpDateNTime - Tool for PCs that can't save date and time](https://github.com/retrozinndev/UpDateNTime)
 
 
-#### Technologies that I use:
+#### Familiar programming languages:
 <a href="https://openjdk.org/">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">
