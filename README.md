@@ -23,7 +23,8 @@ A Computer enthusiast that's learning programming languages!
 
 
 #### Social Medias:
-My Discord: retrozinndev
+Talk to me on Discord: **retrozinndev**
+
 <a href="https://www.reddit.com/user/Much_Clue7037">
  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://stackoverflow.com/users/22116293/retrozinndev">
