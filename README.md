@@ -12,7 +12,7 @@ A Computer enthusiast that's learning programming languages!
  - A Space Shooting game I've made for fun! <br>
   [Space Shooter - A game about Space Shooting!](https://github.com/retrozinndev/SpaceShooter)
  - Tool made to Sync your Date and Time with the Internet on Windows <br>
-  [UpDateNTime - Tool for PCs that can't save date and time](https://github.com/retrozinndev/UpDateNTime)
+  [UpDateNTime - Tool for PCs that can't keep date and time](https://github.com/retrozinndev/UpDateNTime)
 
 
 #### Familiar programming languages:
