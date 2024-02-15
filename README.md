@@ -36,6 +36,10 @@ Talk to me on Discord: **retrozinndev**
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail retrozinndev">
 </a>
 
+<a href="https://x.com/retrozinndev">
+ <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x">
+</a>
+
 <a href="https://matrix.to/#/@retrozinndev:matrix.org">
  <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="retrozinndev's matrix account">
 </a>
