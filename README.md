@@ -1,5 +1,5 @@
 ### Hi👋! My name is João
-I'm a tech enthusiast that's learning programming languages!
+I'm a tech enthusiast who's learning programming languages!
 
 **Pronouns**: he/him
 <!-- <a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
