@@ -23,8 +23,6 @@ I'm a tech enthusiast who's learning programming languages!
 <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 
-<br>
-
 #### Social Medias:
 Talk to me on Discord: **retrozinndev**
 
