@@ -7,6 +7,7 @@ I'm a tech enthusiast who's learning programming languages!
 <br> -->
 
 #### Things that you should look:
+ - See this on my [web page](https://retrozinn.dev)!
  - [Note Studios](https://github.com/notestudios)
  - I've made a game and you can play on Game Jolt, source code is available! <br>
   [The Traveler - A free and open-source 2D Shooter game](https://github.com/notestudios/TheTraveler)
