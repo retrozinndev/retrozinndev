@@ -2,13 +2,12 @@
 I'm a tech enthusiast who's learning programming languages!
 
 **Pronouns**: he/him
-<!-- <a href="https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile">
-<img src="https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green"></a>
-<br> -->
 
-#### Things that you should look:
- - See this on my [web page](https://retrozinn.dev)!
- - [Note Studios](https://github.com/notestudios)
+<!-- [![GitHub Status](https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green)](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile) -->
+
+#### Projects
+ - You can also see this in my [website](https://retrozinn.dev)!
+ - Organization: [Note Studios](https://github.com/notestudios)
  - I've made a game and you can play on Game Jolt, source code is available! <br>
   [The Traveler - A free and open-source 2D Shooter game](https://github.com/notestudios/TheTraveler)
  - A Space Shooting game I've made for fun! <br>
@@ -20,19 +19,17 @@ I'm a tech enthusiast who's learning programming languages!
  I'm coding an easy to use JSON Library for parsing, creating and formatting JSONs! <br>
  [JSONutils - A simple JSON Library that's still in development](https://github.com/retrozinndev/JSONutils)
 
-#### Familiar programming languages:
+#### Skills
 <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 
-#### Social Medias:
-Talk to me on Discord: **retrozinndev**
-
-<a href="mailto:joaovodias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail retrozinndev"></a>
-<a href="https://x.com/retrozinndev"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
-<a href="https://matrix.to/#/@retrozinndev:matrix.org"><img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="retrozinndev's matrix account"></a>
-<a href="https://www.reddit.com/user/Much_Clue7037"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="retrozinndev's Reddit"></a>
-<a href="https://stackoverflow.com/users/22116293/retrozinndev"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow"></a>
-<a href="https://www.twitch.tv/retrozinndev"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-
-#### Linux Distro I use:
-<a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Workstation Linux 39"></a>
+#### Social Medias
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/568589231954591749)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovodias@gmail.com)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/retrozinndev)
+[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@retrozinndev:matrix.org)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Much_Clue7037)
+[![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white")](https://stackoverflow.com/users/22116293/retrozinndev)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/retrozinndev)
+#### OS
+[![Fedora Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
