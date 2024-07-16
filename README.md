@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋<br>João here!</h1>
+# Hi 👋 João here!
 
 ### About me
 
