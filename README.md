@@ -40,3 +40,9 @@ I'm a brazilian tech enthusiast who's learning programming!
 
 ### My current OS
 [![Arch Linux Hyprland WM](https://img.shields.io/badge/Arch_Linux-d6ba3a?style=for-the-badge&logo=arch-linux&logoColor=black)](https://archlinux.org)
+
+### Donating
+If you like my work, you can help me keep it up by sponsoring me! I'll be very grateful if you do that! ❤️
+
+
+[![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
