@@ -1,7 +1,7 @@
 # 👋 Hello
 
 <u><b>My name is João, </b></u>
-I'm a brazilian tech enthusiast who's learning programming stuff!
+I'm a brazilian tech enthusiast who's passionate about Linux and Programming!
 
 <!-- [![GitHub Status](https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green)](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile) -->
 
@@ -16,12 +16,8 @@ I'm a brazilian tech enthusiast who's learning programming stuff!
 - [Parceiro TI](https://parceiroti.com.br)
 - [Note Studios](https://github.com/notestudios) (Fictitious company for my games)
 
-### 👀 Check out my [Projects &UpperRightArrow;](https://retrozinn.dev/en/projects)
-<!-- - [UpDateNTime](https://github.com/retrozinndev/UpDateNTime): Tool made to Sync your Date and Time with the Internet on Windows.
- - [JSONutils](https://github.com/retrozinndev/JSONutils): A Java Library that reads and writes JSONs on an easier way!
- - [The Traveler](https://github.com/notestudios/TheTraveler): Open-source 2D Shooter game made with Java!
- - [Space Shooter](https://github.com/retrozinndev/SpaceShooter): A Space Shooting game I've made for fun!
--->
+### 👀 [Projects &UpperRightArrow;](/retrozinndev?tab=repositories)
+- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My dotfiles for Hyprland with Arch Linux!
 
 ### 💻 Skills
 [![Java](https://img.shields.io/badge/Java-d6ba3a?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.org)
