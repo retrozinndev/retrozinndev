@@ -16,8 +16,9 @@ I'm a brazilian tech enthusiast who's passionate about Linux and Programming!
 - [Parceiro TI](https://parceiroti.com.br)
 - [Note Studios](https://github.com/notestudios) (Fictitious company for my games)
 
-### 👀 [Projects &UpperRightArrow;](https://github.com/retrozinndev?tab=repositories)
+### 👀 [Repos](https://github.com/retrozinndev?tab=repositories)
 - [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My dotfiles for Hyprland with Arch Linux!
+- You can see more relevant projects/apps on my website! [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
 
 ### 💻 Skills
 [![Java](https://img.shields.io/badge/Java-d6ba3a?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.org)
