@@ -1,24 +1,24 @@
-# 👋 Hello
+# 👋 Hey!
 
-<u><b>My name is João, </b></u>
-I'm a brazilian tech enthusiast who's passionate about Linux and Programming!
+<b>My name is João, </b>
+I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming and anime!
 
 <!-- [![GitHub Status](https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green)](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile) -->
 
 ### 🙋‍♂️ About me
 **Languages I can speak**: Português BR, English <br>
 **Interests**: Programming, Linux and open-source! <br>
-**My favorite series**: [Bocchi The Rock!](https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock) <br>
+**Favorite series**: [Bocchi The Rock!](https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock) <br>
 
-<b>You can also see more information about me on [my website!](https://retrozinn.dev)</b>
+<b>You can also see more information about me on [my website.](https://retrozinn.dev)</b>
 
 ### 📗 Organizations I contribute on
 - [Parceiro TI](https://parceiroti.com.br)
 - [Note Studios](https://github.com/notestudios) (Fictitious company for my games)
 
 ### 👀 [Repos](https://github.com/retrozinndev?tab=repositories)
-- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My dotfiles for Hyprland with Arch Linux!
-- You can see more relevant projects/apps on my website! [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
+- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My dotfiles for Hyprland with Arch Linux
+- You can see more relevant projects/apps on my website: [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
 
 ### 💻 Skills
 [![Java](https://img.shields.io/badge/Java-d6ba3a?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.org)
@@ -28,7 +28,7 @@ I'm a brazilian tech enthusiast who's passionate about Linux and Programming!
 [![TypeScript](https://img.shields.io/badge/TypeScript-d6ba3a?style=for-the-badge&logo=typescript&logoColor=black)](https://typescriptlang.org)
 [![Astro](https://img.shields.io/badge/astro-d6ba3a.svg?style=for-the-badge&logo=astro&logoColor=black)](https://astro.build)
 
-### 💬 Talk with me
+### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-d6ba3a?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/568589231954591749)
 [![Mail](https://img.shields.io/badge/Gmail-d6ba3a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:joaovodias@gmail.com)
 [![X](https://img.shields.io/badge/X-d6ba3a?style=for-the-badge&logo=x&logoColor=black)](https://x.com/retrozinndev)
@@ -39,7 +39,7 @@ I'm a brazilian tech enthusiast who's passionate about Linux and Programming!
 [![MyAnimeList](https://img.shields.io/badge/Myanimelist-d6ba3a?style=for-the-badge&logo=myanimelist&logoColor=black)](https://myanimelist.net/profile/retrozinndev)
 
 ### 🐧 My current OS
-[![Arch Linux Hyprland WM](https://img.shields.io/badge/Arch_Linux-d6ba3a?style=for-the-badge&logo=arch-linux&logoColor=black)](https://archlinux.org)
+[![Arch Linux w/ Hyprland WM](https://img.shields.io/badge/Arch_Linux-d6ba3a?style=for-the-badge&logo=arch-linux&logoColor=black)](https://archlinux.org)
 
 ### 💟 Donating
 **If you like my work**, you can **help me keep it up** by **sponsoring me**!<br>
