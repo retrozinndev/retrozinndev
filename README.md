@@ -8,7 +8,7 @@ I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming an
 ### 🙋‍♂️ About me
 **Languages I can speak**: Português BR, English <br>
 **Interests**: Programming, Linux and open-source! <br>
-**Favorite series**: [Bocchi The Rock!](https://www.crunchyroll.com/series/GXJHM3P19/bocchi-the-rock) <br>
+**Favorite series**: [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko), [Bocchi The Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
 
 <b>You can also see more information about me on [my website.](https://retrozinn.dev)</b>
 
