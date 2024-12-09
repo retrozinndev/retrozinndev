@@ -43,6 +43,6 @@ I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming an
 
 ### 💟 Donating
 **If you like my work**, you can **help me keep it up** by **sponsoring me**!<br>
-I'll be **very grateful** if you do that! ❤️ <br>
+I would be **very grateful** if you did that! ❤️ <br>
 
 [![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
