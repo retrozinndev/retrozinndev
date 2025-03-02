@@ -6,23 +6,23 @@ I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming an
 <!-- [![GitHub Status](https://github-readme-stats.vercel.app/api?username=retrozinndev&theme=blue-green)](https://docs.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile) -->
 
 ### 🙋‍♂️ About me
-**Languages I can speak**: Português BR, English <br>
-**Interests**: Programming, Linux and open-source! <br>
-**Favorite series**: [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko) 
+**Languages that I speak**: Português BR, English <br>
+**Interests**: Programming, Linux, anime and open-source! <br>
+**Favorite TV Series**: [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko) 
   and [Bocchi The Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
 
 more on [my website.](https://retrozinn.dev)
 
 ### 📗 Organizations I contribute on
-- [Parceiro TI](https://parceiroti.com.br)
+- [Parceiro TI](https://github.com/parceiroti)
 - [Note Studios](https://github.com/notestudios) (Fictitious company for my games)
 
 ### 👀 [Repos](https://github.com/retrozinndev?tab=repositories)
-- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My dotfiles for Hyprland with Arch Linux
-- You can see more relevant projects/apps on my website: [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
+- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My Desktop Shell for Hyprland + dotfiles
+- You can see other projects on my website: [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
 
 ### 💻 Skills
-About programming languages, I know mostly Java, TypeScript and GNU Bash, I don't use C# much.
+About programming languages, I know mostly TypeScrip and Java I don't use C# much.
 
 [![Java](https://img.shields.io/badge/Java-d6ba3a?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.org)
 [![Bash](https://img.shields.io/badge/Bash-d6ba3a?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/manual/html_node/index.html)
@@ -34,7 +34,7 @@ About programming languages, I know mostly Java, TypeScript and GNU Bash, I don'
 [![CSS](https://img.shields.io/badge/CSS-d6ba3a?style=for-the-badge&logo=css3&logoColor=black)]()
 
 ### 🌐 Socials
-You can find me in lots of social medias! For chatting, Discord is preferred.
+You can find me on lots of social medias! I'm mostly active on Discord and Reddit.
 
 [![Discord](https://img.shields.io/badge/Discord-d6ba3a?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/568589231954591749)
 [![Mail](https://img.shields.io/badge/Gmail-d6ba3a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:joaovodias@gmail.com)
@@ -47,10 +47,10 @@ You can find me in lots of social medias! For chatting, Discord is preferred.
 
 ### 🐧 Linux Distribution in Use
 [![Arch Linux w/ Hyprland WM](https://img.shields.io/badge/Arch_Linux-d6ba3a?style=for-the-badge&logo=arch-linux&logoColor=black)](https://archlinux.org)<br>
-...(btw)
+(btw)
 
 ### 💟 Donating
-**If you like my work**, you can **help me keep it up** by **sponsoring me**!<br>
-I would be **very grateful** if you do that! ❤️ <br>
+Like my work? You can **help me keep it up by _sponsoring_ me**!<br>
+I would be **very grateful** if you did that! ❤️ <br>
 
 [![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
