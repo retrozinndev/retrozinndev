@@ -11,7 +11,7 @@ I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming an
 **Favorite TV Series**: [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko) 
   and [Bocchi The Rock!](https://myanimelist.net/anime/47917/Bocchi_the_Rock) <br>
 
-more on [my website.](https://retrozinn.dev)
+more on [my website.](https://retrozinndev.github.io)
 
 ### 📗 Organizations I contribute on
 - [Parceiro TI](https://github.com/parceiroti)
@@ -19,7 +19,7 @@ more on [my website.](https://retrozinn.dev)
 
 ### 👀 [Repos](https://github.com/retrozinndev?tab=repositories)
 - [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My Desktop Shell for Hyprland + dotfiles
-- You can see other projects on my website: [retrozinn.dev/projects](https://retrozinn.dev/en/projects)
+- You can see other projects on my website: [retrozinndev.github.io/projects](https://retrozinndev.github.io/en/projects)
 
 ### 💻 Skills
 About programming languages, I know mostly TypeScrip and Java I don't use C# much.
