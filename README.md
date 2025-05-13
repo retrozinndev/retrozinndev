@@ -18,7 +18,7 @@ more on [my website.](https://retrozinndev.github.io)
 - [Note Studios](https://github.com/notestudios) (Fictitious company for my games)
 
 ### 👀 [Repos](https://github.com/retrozinndev?tab=repositories)
-- [Hyprland Dots](https://github.com/retrozinndev/Hyprland-Dots?tab=readme-ov-file): My Desktop Shell for Hyprland + dotfiles
+- [colorshell](https://github.com/retrozinndev/colorshell): My Desktop Shell for Hyprland 🤩
 - You can see other projects on my website: [retrozinndev.github.io/projects](https://retrozinndev.github.io/en/projects)
 
 ### 💻 Skills
