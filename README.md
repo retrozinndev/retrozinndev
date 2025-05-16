@@ -22,7 +22,7 @@ more on [my website.](https://retrozinndev.github.io)
 - You can see other projects on my website: [retrozinndev.github.io/projects](https://retrozinndev.github.io/en/projects)
 
 ### 💻 Skills
-About programming languages, I know mostly TypeScrip and Java I don't use C# much.
+About programming languages, I know mostly TypeScript and Java I don't use C# much.
 
 [![Java](https://img.shields.io/badge/Java-d6ba3a?style=for-the-badge&logo=openjdk&logoColor=black)](https://openjdk.org)
 [![Bash](https://img.shields.io/badge/Bash-d6ba3a?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash/manual/html_node/index.html)
