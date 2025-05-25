@@ -13,7 +13,7 @@ You can find me on lots of social medias! I'm mostly active on Discord and Reddi
 
 # 💟 Sponsors
 Like my work? You can **help me keep it up by donating**!<br>
-I would be **very grateful** if you did that! ❤️ <br>
+I would be **very grateful** if you did that! ❤️ <br><br>
 [![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
 
 (currently, there are no sponsors 🥲. sponsor me to appear here!)
