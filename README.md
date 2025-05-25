@@ -11,7 +11,9 @@ You can find me on lots of social medias! I'm mostly active on Discord and Reddi
 [![StackOverFlow](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/22116293/retrozinndev)
 [![MyAnimeList](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=myanimelist&logoColor=black)](https://myanimelist.net/profile/retrozinndev)
 
+# 💟 Sponsors
 Like my work? You can **help me keep it up by donating**!<br>
 I would be **very grateful** if you did that! ❤️ <br>
-
 [![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
+
+(currently, there are no sponsors 🥲. sponsor me to appear here!)
