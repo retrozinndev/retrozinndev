@@ -7,6 +7,7 @@ You can find me on lots of social medias! I'm mostly active on Discord and Reddi
 [![Reddit](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/user/Much_Clue7037)
 [![Mail](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:joaovodias@gmail.com)
 [![X](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=x&logoColor=black)](https://x.com/retrozinndev)
+[![Mastodon](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=mastodon&logoColor=black)](https://mastodon.social/@joaovodias)
 [![Matrix](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=Matrix&logoColor=black)](https://matrix.to/#/@retrozinndev:matrix.org)
 [![StackOverFlow](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/22116293/retrozinndev)
 [![MyAnimeList](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=myanimelist&logoColor=black)](https://myanimelist.net/profile/retrozinndev)
