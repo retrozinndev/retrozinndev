@@ -1,7 +1,7 @@
 ### 👋 Hey!
 I'm a brazilian tech enthusiast who's passionate about GNU/Linux, programming and anime!
 
-You can find me on lots of social medias! I'm mostly active on Discord and Reddit.
+You can find me on lots of social medias! I'm mostly active on X, Discord and Reddit.
 
 [![Discord](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/568589231954591749)
 [![Reddit](https://img.shields.io/badge/-d6ba3a?style=for-the-badge&logo=reddit&logoColor=black)](https://www.reddit.com/user/Much_Clue7037)
