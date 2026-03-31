@@ -19,3 +19,6 @@ I will be **very grateful** if you do so! ❤️ <br><br>
 [![](https://img.shields.io/badge/Support%20me%20via%20Ko--fi-f16061?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/retrozinndev)
 
 (currently, there are no sponsors 🥲. sponsor me to appear here!)
+
+### 🥇 Showoff
+[![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api/?username=retrozinndev&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
